@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(136, 104, 60);
+}
+p {
+    font-family:'courier new';
+    font-size: 1.2em; /* Em space = M turned on 90 degrees on its side. 
+    measured in pixels, em, relative, etc. */
+    line-height: 1.0;
+    color: gray;
+    font-weight: 400;
+    font-style: normal; /*ital, oblique */
+    font-variant: normal;
+    
+}
