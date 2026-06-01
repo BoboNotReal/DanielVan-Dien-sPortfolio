@@ -1,0 +1,51 @@
+
+body {
+    text-align: center;
+    background-color: #e4cfcf; /* hexidecimal blue */
+    
+    background-repeat: no-repeat;/* no title effect */
+    background-attachment: fixed; /* text scorlls over background*/
+    background-position: center top;
+    color:white; /* colors text */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:link {
+    color: rgba(255, 255, 255, 1); /* rgb white and 100% opacity aka alpha */
+    text-decoration:none;
+}
+
+a:hover {
+color:#c063e6;
+background-color:rgba(#000000);
+text-decoration: none;
+}
+body {
+  background-image: url("images/background.jpeg");
+  background-repeat: no-repeat;
+}
+body {
+  background-image: url("images/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+    
+}
+
+nav {
+    margin:0 auto;
+    margin-bottom: 20px;
+    background-color: black;
+    border: dashed 1px rgba(255,255,255,1);
+    border-radius: 0 12px 0 0; /* rounded corners */
+    width:80%;/*using a measure = absolute size */
+    height:80px;
+    padding:10px 4px 4px 4px;
+    
+}
+h1 {
+    background-image:url("images/repeatingbackground.png");
+    background-repeat:repeat;
+    background-color: gray;
+    
+}
